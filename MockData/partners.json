@@ -1,0 +1,12 @@
+[
+  {
+    "partnerNo" : "FG-00001",
+    "allowedPartner" : "FAKEGOOGLE",
+    "partnerPassword" : "FAKEPASSWORD1234"
+  }, 
+  {
+    "partnerNo" : "FG-00002",
+    "allowedPartner" : "FAKEPEOPLE",
+    "partnerPassword" : "FAKEPASSWORD4578"
+  }
+]
